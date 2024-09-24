@@ -1,2 +1,2 @@
 # Mistakes-Notebook
-Mistakes Notebook in Math machine learning and other stuff
+This is a Mistakes Notebook in Math machine learning and other stuff
